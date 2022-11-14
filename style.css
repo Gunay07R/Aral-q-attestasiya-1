@@ -1,0 +1,36 @@
+body{
+    background-image: url(./sekil/weather-105.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    color: white;
+   
+}
+.welcome{
+    text-align: center;
+    margin-top: 250px;
+    margin-right: 50px;
+}
+.obsim{
+display: flex;
+justify-content: space-between;
+}
+.sol{
+    padding-left: 10px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+  padding: 0 15px;
+
+}
+.sag{
+ display: flex;
+    font-size: 18px;
+   justify-content: space-between;
+}
+.sag h3{
+    padding-right:15px ;
+}
+  
+  
+
+  
